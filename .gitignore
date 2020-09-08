@@ -1,0 +1,5 @@
+# Project exclude paths
+/login-api-commons/target/
+/login-consumer-80/target/
+/login-mail-8082/target/
+/login-rabbitmq-8081/target/

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/boot-login-demo.iml" filepath="$PROJECT_DIR$/boot-login-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/login-api-commons/login-api-commons.iml" filepath="$PROJECT_DIR$/login-api-commons/login-api-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/login-consumer-80/login-consumer-80.iml" filepath="$PROJECT_DIR$/login-consumer-80/login-consumer-80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/login-mail-8082/login-mail-8082.iml" filepath="$PROJECT_DIR$/login-mail-8082/login-mail-8082.iml" />
+      <module fileurl="file://$PROJECT_DIR$/login-rabbitmq-8081/login-rabbitmq-8081.iml" filepath="$PROJECT_DIR$/login-rabbitmq-8081/login-rabbitmq-8081.iml" />
+    </modules>
+  </component>
+</project>

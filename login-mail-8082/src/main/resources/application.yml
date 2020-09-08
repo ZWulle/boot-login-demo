@@ -1,0 +1,20 @@
+server:
+  port: 8082
+spring:
+  #  data:
+  #    mongodb:
+  #      uri: "mongodb://192.168.198.132:27017/mydb"
+  rabbitmq:
+    host: 192.168.198.132
+    port: 5672
+    username: admin
+    password: 123456
+  mail:
+    # 邮箱服务器
+    host: smtp.qq.com
+    # 发送者的邮箱
+    username: 1013034379@qq.com
+    # 默认编码格式
+    default-encoding: UTF-8
+    # 开启服务的授权码（在qq邮箱的设置里面获取）
+    password: jkovnrxfrlisbfjf
