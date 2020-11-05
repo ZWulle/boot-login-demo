@@ -31,6 +31,7 @@ public class SendEmail {
         //实例一个邮箱实体类
         SimpleMailMessage mailMsg = new SimpleMailMessage();
         //发送者
+
         mailMsg.setFrom(msgFrom);
         //接收者
         mailMsg.setTo(msgTo);
